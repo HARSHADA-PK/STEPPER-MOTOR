@@ -71,8 +71,7 @@ DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
 ![Stepper Motor](https://github.com/user-attachments/assets/e7a4f615-4215-4e89-afa4-95d4b83e4282)
-![20](https://github.com/user-attachments/assets/75f6344a-80ac-40db-9d16-d98c0b3bc5f4)![23](https://github.com/user-attachments/assets/aaeaec0b-19a9-4137-a8df-7278a1892f89)
-
+![20](https://github.com/user-attachments/assets/75f6344a-80ac-40db-9d16-d98c0b3bc5f4)
 
 
 
